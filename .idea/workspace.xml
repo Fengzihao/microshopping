@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2220ec-f9e4-4ad6-b0ac-1a0ac1b0be0c" name="Changes" comment="" />
+    <list default="true" id="2d2220ec-f9e4-4ad6-b0ac-1a0ac1b0be0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/currencyservice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productcatalogservice/data/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productcatalogservice/handler/productcatalogservice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productcatalogservice/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productcatalogservice/proto/productcatalogservice.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currencyservice/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/currencyservice/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currencyservice/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/currencyservice/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.work.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.work.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productcatalogservice/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/productcatalogservice/go.mod" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" url="file://$USER_HOME$/.g/versions/1.21.4" />
   <component name="Git.Settings">
@@ -28,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -40,9 +60,26 @@
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "C:/Users/0344",
     "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)"
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="go build currencyservice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="microshopping" />
+      <working_directory value="$PROJECT_DIR$/currencyservice" />
+      <kind value="PACKAGE" />
+      <package value="currencyservice" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/currencyservice/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build currencyservice" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
